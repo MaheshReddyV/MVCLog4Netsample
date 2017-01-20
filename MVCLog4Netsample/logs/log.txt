@@ -1,0 +1,9 @@
+DEBUG 2017-01-20 15:52:58,252  5906ms AccountController      Login              - Login Page 
+WARN  2017-01-20 15:52:58,270  5923ms AccountController      Login              - unused Variable i 
+ERROR 2017-01-20 15:52:58,270  5923ms AccountController      Login              - Error message
+FATAL 2017-01-20 15:52:58,270  5923ms AccountController      Login              - Fatal message
+INFO  2017-01-20 15:54:53,245  4476ms AccountController      Register           - User Register logging
+DEBUG 2017-01-20 15:54:55,846  7077ms AccountController      Login              - Login Page 
+WARN  2017-01-20 15:54:55,846  7077ms AccountController      Login              - unused Variable i 
+ERROR 2017-01-20 15:54:55,847  7078ms AccountController      Login              - Error message
+FATAL 2017-01-20 15:54:55,847  7078ms AccountController      Login              - Fatal message
